@@ -1,0 +1,10 @@
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\bin\Debug\Ruta de grafos.exe.config
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\bin\Debug\Ruta de grafos.exe
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\bin\Debug\Ruta de grafos.pdb
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta de grafos.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta_de_grafos.Form1.resources
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta_de_grafos.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta de grafos.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta de grafos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta de grafos.exe
+C:\Users\Fernando\source\repos\Ruta de grafos\Ruta de grafos\obj\Debug\Ruta de grafos.pdb
